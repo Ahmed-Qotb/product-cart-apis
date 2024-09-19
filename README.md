@@ -45,6 +45,7 @@ API_SECRET=<enter yours here>
 Cart API uses a virtual field to auto-calculate the total price for all products.
 
 Virtual Field Example:
+   ```js
 cartSchema.virtual("total").get(function () {
   if (this.products.length > 0) {
     return this.products.reduce((sum, product) => {
