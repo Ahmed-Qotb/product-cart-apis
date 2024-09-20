@@ -36,8 +36,11 @@ npm install
 PORT=3000
 CONNECTION_URL="mongodb://localhost:27017/productCart"
 CLOUD_FOLDER_NAME=<enter yours here>
+
 CLOUD_NAME=<enter yours here>
+
 API_KEY=<enter yours here>
+
 API_SECRET=<enter yours here>
 
 🛠️ API Features
