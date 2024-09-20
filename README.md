@@ -35,13 +35,14 @@ npm install
 3. **Create a .env file in the root directory (next to index.js):**
 PORT=3000
 CONNECTION_URL="mongodb://localhost:27017/productCart"
-CLOUD_FOLDER_NAME=<enter yours here>
 
-CLOUD_NAME=<enter yours here>
+CLOUD_FOLDER_NAME=enter yours here
 
-API_KEY=<enter yours here>
+CLOUD_NAME=enter yours here
 
-API_SECRET=<enter yours here>
+API_KEY=enter yours here
+
+API_SECRET=enter yours here
 
 🛠️ API Features
 1. 🧮 Auto Total Price Calculation
